@@ -1,0 +1,90 @@
+:root{
+    --color-castellano: #cb4335;
+    --color-matematicas:  #3498db  ;
+    --color-geografia:  #58d68d    ;
+    --color-valenciano: #f39c12 ;
+    --color-religion:  #1e8449    ;
+    --color-cultura:  #f4d03f ;
+    --color-ingles:  #8e44ad ;
+    --color-educadionfisica:  #99a3a4 ;
+    --color-informatica:   #dc5dcd ;
+    --color-iae: #34495e;
+    --color-tecnologia:  #903b00 ;
+    --color-patio:  #001ffe ;
+}
+
+.nomenclatura-castellano{
+    background-color: var(--color-castellano);
+    width: 50px;
+}
+
+.nomenclatura-matematicas{
+    background-color: var(--color-matematicas);
+    width: 50px;
+}
+
+.nomenclatura-geografia{
+    background-color: var(--color-geografia);
+    width: 50px;
+}
+
+.nomenclatura-valenciano{
+    background-color: var(--color-valenciano);
+    width: 50px;
+}
+
+.nomenclatura-religinon{
+    background-color: var( --color-religion);
+    width: 50px;
+}
+
+.nomenclatura-cultura{
+    background-color: var(--color-cultura);
+    width: 50px;
+}
+
+.nomenclatura-ingles{
+    background-color: var(--color-ingles);
+    width: 50px;
+}
+
+.nomenclatura-educacionfisica{
+    background-color: var(--color-educadionfisica);
+    width: 50px;
+}
+
+.nomenclatura-informatica{
+    background-color: var(--color-informatica);
+    width: 50px;
+}
+
+.nomenclatura-iae{
+    background-color: var(--color-iae);
+    width: 50px;
+}
+.nomenclatura-tecnologia{
+    background-color: var(--color-tecnologia);
+    width: 50px;
+}
+.nomenclatura-patio{
+    background-color: var(--color-patio);
+    width: 50px;
+}
+
+
+
+.educacion-fisica{
+    background-color: var(--color-educadionfisica);
+}
+.castellano{
+    background-color: var(--color-castellano);
+}
+.matematicas{
+    background-color: var(--color-matematicas);
+}
+.valenciano{
+    background-color: var(--color-valenciano);
+}
+.patio{
+    background-color: var(--color-patio);
+}
